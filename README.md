@@ -7,4 +7,5 @@ Dataset and code for our newly proposed LDR-HDR dataset: GTA-HDR
 The official implementation of our GTA-HDR Benchmark Dataset:  
  
 ![My Image](assets/GTA-HDR-Teaser.png)
+![Screenshot](assets/GTA-HDR-Teaser.png)
 
