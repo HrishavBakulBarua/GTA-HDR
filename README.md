@@ -21,7 +21,9 @@ The official implementation of our GTA-HDR Benchmark Dataset:
 ## Coming Soon!!
 
 
-## Our work utilizes the following state-of-the-art models
+## Our work utilizes the following:
+
+### State-of-the-art models
 
 `HDRCNN` - HDR image reconstruction from a single exposure using deep CNNs (*ACM TOG 2017*), [Code](https://github.com/gabrieleilertsen/hdrcnn)
 
@@ -37,7 +39,7 @@ The official implementation of our GTA-HDR Benchmark Dataset:
 
 `ArtHDR-Net` - Perceptually Realistic and Accurate HDR Content Creation (*APSIPA 2023*), [Code](https://arxiv.org/abs/2309.03827#:~:text=ArtHDR%2DNet%3A%20Perceptually%20Realistic%20and%20Accurate%20HDR%20Content%20Creation,-Hrishav%20Bakul%20Barua&text=High%20Dynamic%20Range%20(HDR)%20content,and%20Augmented%2FVirtual%20Reality%20industries.)
 
-## Our work utilizes the following LDR-HDR datasets
+### LDR-HDR datasets
 
 `HDR-Eye` - Visual attention in LDR and HDR images (*VPQM 2015*), [Link](https://www.epfl.ch/labs/mmspg/downloads/hdr-eye/)
 
