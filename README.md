@@ -17,6 +17,10 @@ The official implementation of our GTA-HDR Benchmark Dataset:
  
 ![My Image](assets/GTA-HDR-Teaser.png)
 
+## Data collection pipeline
+
+
+
 
 ## Coming Soon!!
 
