@@ -48,3 +48,7 @@ The official implementation of our GTA-HDR Benchmark Dataset:
 `Kalantari` *et al.* - Deep high dynamic range imaging of dynamic scenes (*ACM TOG 2017*), [Link](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/)
 
 `Endo` *et al.* - Deep reverse tone mapping (*ACM TOG 2017*), [Link](https://www.npal.cs.tsukuba.ac.jp/~endo/projects/DrTMO/)
+
+`Eilertsen` *et al.* - HDR image reconstruction from a single exposure using deep CNNs (*ACM TOG 2017*), [Link](https://computergraphics.on.liu.se/hdrcnn/)
+
+`Lee` *et al.* - Deep chain hdri: Reconstructing a high dynamic range image from a single low dynamic range image (*IEEE Access 2018*), [Link](https://siyeong-lee.github.io/hdr_vds_dataset/)
