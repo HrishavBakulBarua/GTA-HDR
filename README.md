@@ -1,9 +1,15 @@
 # GTA-HDR
 Dataset and code for our newly proposed LDR-HDR dataset: GTA-HDR
 
+## About the project
+
 This joint project is a collaboration between [Monash University, Malaysia campus](https://www.monash.edu.my/) and [Monash University, Melbourne, Australia](https://www.monash.edu/)
 
 Project Members - [Hrishav Bakul Barua](https://www.researchgate.net/profile/Hrishav-Barua)  [(TCS Research, Kolkata)](https://www.tcs.com/research-and-innovation), [Ganesh Krishnasami](https://universe.bits-pilani.ac.in/Hyderabad/bhattacharjee/Profile) [(BITS Pilani, Hyderabad)](https://www.bits-pilani.ac.in/), [Koksheik Wong](https://universe.bits-pilani.ac.in/Hyderabad/bhattacharjee/Profile) [(BITS Pilani, Hyderabad)], [Abhinav Dhall](https://universe.bits-pilani.ac.in/Hyderabad/bhattacharjee/Profile) [(BITS Pilani, Hyderabad)], and [Kalin Stefanov](https://universe.bits-pilani.ac.in/Hyderabad/bhattacharjee/Profile) [(BITS Pilani, Hyderabad)]
+
+### Funding details
+
+
 
 ## Overview
 
