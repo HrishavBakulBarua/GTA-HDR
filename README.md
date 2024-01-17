@@ -24,4 +24,9 @@ SingleHDR - Single-Image HDR Reconstruction by Learning to Reverse the Camera Pi
 
 HDR-GAN - HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions (IEEE TIP 2021), [Code base](https://github.com/nonu116/HDR-GAN)
 
+SingleHDR - Single-Image HDR Reconstruction by Multi-Exposure Generation (WACV 2023), [Code base](https://github.com/VinAIResearch/single_image_hdr)
+
+ArtHDR-Net - Perceptually Realistic and Accurate HDR Content Creation (APSIPA 2023), [Code base](https://arxiv.org/abs/2309.03827#:~:text=ArtHDR%2DNet%3A%20Perceptually%20Realistic%20and%20Accurate%20HDR%20Content%20Creation,-Hrishav%20Bakul%20Barua&text=High%20Dynamic%20Range%20(HDR)%20content,and%20Augmented%2FVirtual%20Reality%20industries.)
+
+
 
