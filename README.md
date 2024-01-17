@@ -30,4 +30,4 @@ ArtHDR-Net - Perceptually Realistic and Accurate HDR Content Creation (APSIPA 20
 
 ## Our work utilizes the following LDR-HDR datasets
 
-
+HDR-Eye - Visual attention in LDR and HDR images (VPQM 2015), [Link](https://www.epfl.ch/labs/mmspg/downloads/hdr-eye/)
