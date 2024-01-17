@@ -25,7 +25,7 @@ This work is supported by the prestigious [`Global Excellence and Mobility Schol
 
 ## Our work utilizes the following:
 
-### State-of-the-art models
+### State-of-the-art learning models
 
 `HDRCNN` - HDR image reconstruction from a single exposure using deep CNNs (*ACM TOG 2017*) | [Code](https://github.com/gabrieleilertsen/hdrcnn)
 
