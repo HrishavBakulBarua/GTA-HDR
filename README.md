@@ -84,7 +84,7 @@ Common link to some commonly used datasets - [RAISE](https://qualinet.github.io/
 
 | Dataset       |    Type     | #HDR<sub>GT<sub> | Resolution | In-the-wild | HDR<sub>Dist<sub> | Scene diversity | Image diversity |
 | ------------- | ------------- | -------------| -------------| -------------| -------------| -------------| -------------| 
-| HDR-Eye (2015)  | Synthetic | 46 | 512&cross;512  | :x: | :x: | :x: | :x: |
+| [HDR-Eye (2015)](https://www.epfl.ch/labs/mmspg/downloads/hdr-eye/)  | Synthetic | 46 | 512&cross;512  | :x: | :x: | :x: | :x: |
 | City Scene (2017)  | Mixed | 41222 | 128&cross;64|  :x: | :x: | :white_check_mark: | :x: |
 |Kalantari *et al.* (2017) | Real | 89 | 1500&cross;1000|:x: | :x: | :x: | :x: |
 | Endo *et al.* (2017) | Synthetic| 1043 |512&cross;512 | :x: | :x: | :x: | :x: |
