@@ -81,9 +81,9 @@ Common link to some commonly used datasets - [RAISE](https://qualinet.github.io/
 
 Another huge dataset by [Kim *et al.* (ICCV 2019)](https://github.com/sooyekim/Deep-SR-ITM) (not used in our evaluation due to reasons stated in the paper)
 
-[Sen *et al.* (ACM TOG 2012)](https://web.ece.ucsb.edu/~psen/hdrvideo)
+Dataset: [Sen *et al.* (ACM TOG 2012)](https://web.ece.ucsb.edu/~psen/hdrvideo) (not used in our evaluation due to reasons stated in the paper)
 
-[Trusun *et al.* (Wiley CGF 2016)](https://user.ceng.metu.edu.tr/~akyuz/files/eg2016/index.html)
+Dataset: [Trusun *et al.* (Wiley CGF 2016)](https://user.ceng.metu.edu.tr/~akyuz/files/eg2016/index.html) (not used in our evaluation due to reasons stated in the paper)
 
 ### <ins>Dataset summary table</ins>
 
