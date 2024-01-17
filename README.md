@@ -100,7 +100,7 @@ Dataset: [Trusun *et al.* (Wiley CGF 2016)](https://user.ceng.metu.edu.tr/~akyuz
 | [LDR-HDR Pair (2020)](https://github.com/HanbyolJang/LDR-HDR-pair_Dataset/tree/master)  |Real|176|1024&cross;1024| :x: | :x: | :x: | :x: |
 | [HDR-Synth & HDR-Real (2020)](https://github.com/alex04072000/SingleHDR)  |Mixed|20537|512&cross;512| :x: | :x: | :x: | :white_check_mark: |
 | [SI-HDR (2022)](https://www.cl.cam.ac.uk/research/rainbow/projects/sihdr_benchmark/)  |Real|181|1920&cross;1280| :x: | :x: | :white_check_mark: | :x: |
-| *GTA-HDR (ours)* (2024) | Synthetic |40000|512&cross;512| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| **GTA-HDR (ours)** (2024) | Synthetic |40000|512&cross;512| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 
 
 
