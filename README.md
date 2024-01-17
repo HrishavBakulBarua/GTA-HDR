@@ -68,7 +68,7 @@ This work is supported by the prestigious [`Global Excellence and Mobility Schol
 `HDR-Synth & HDR-Real` - Single-image HDR reconstruction by learning to reverse the camera pipeline (*CVPR 2020*) | [Link](https://github.com/alex04072000/SingleHDR)
 
 
-| Dataset       |    Year       |     Type     | #HDR<sup>GT<sup> | First Header | First Header | First Header | First Header | First Header |
+| Dataset       |    Year       |     Type     | #HDR<sub>GT<sub> | First Header | First Header | First Header | First Header | First Header |
 | ------------- | ------------- | -------------| -------------| -------------| -------------| -------------| -------------| -------------|
 | Content Cell  | Content Cell  | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
 | Content Cell  | Content Cell  | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
