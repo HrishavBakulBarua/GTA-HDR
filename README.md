@@ -74,7 +74,7 @@ This work is supported by the prestigious [`Global Excellence and Mobility Schol
 | City Scene (2017)  | Mixed | 41222 | 128&cross;64|  :x: | :x: | :white_check_mark: | :x: |
 |Kalantari *et al.* (2017) | Real | 89 | 1500&cross;1000|:x: | :x: | :x: | :x: |
 | Endo *et al.* (2017) | Synthetic| 1043 |512&cross;512 | :x: | :x: | :x: | :x: |
-
+| Eilertsen *et al.* (2017)  |Synthetic|96|1024&cross;768| :x: | :x: | :x: | :x: |
 
 ## Experiments
 
