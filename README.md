@@ -72,6 +72,7 @@ This work is supported by the prestigious [`Global Excellence and Mobility Schol
 | ------------- | ------------- | -------------| -------------| -------------| -------------| -------------| -------------| 
 | HDR-Eye 2015  | Synthetic | 46 | 512X512  | :x: | :x: | :x: | :x: |
 | City Scene 2017  | Mixed | 41222 | 128X64|  :x: | :x: | :white_check_mark: | :x: |
+|Kalantari *et al.* 2017 | Real | 89 | 1500X1000|:x: | :x: | :x: | :x: |
 
 
 
