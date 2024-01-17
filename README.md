@@ -57,4 +57,4 @@ This work is supported by the prestigious [`Global Excellence and Mobility Schol
 
 `Lee` *et al.* - Deep chain hdri: Reconstructing a high dynamic range image from a single low dynamic range image (*IEEE Access 2018*) | [Link](https://siyeong-lee.github.io/hdr_vds_dataset/)
 
-'Cai' *et al.* - Learning a deep single image contrast enhancer from multi-exposure images (*IEEE TIP 2018*) | [Link](https://github.com/csjcai/SICE)
+`Cai` *et al.* - Learning a deep single image contrast enhancer from multi-exposure images (*IEEE TIP 2018*) | [Link](https://github.com/csjcai/SICE)
