@@ -28,7 +28,7 @@ This work is supported by the prestigious [`Global Excellence and Mobility Schol
 ### State-of-the-art learning models
 
 
-`HDRCNN` - HDR image reconstruction from a single exposure using deep CNNs (*ACM TOG 2017*) | [Code](https://github.com/gabrieleilertsen/hdrcnn)
+`HDRCNN` | `ACM TOG 20171` - HDR image reconstruction from a single exposure using deep CNNs | [Code](https://github.com/gabrieleilertsen/hdrcnn)
 
 `DrTMO` - Deep Reverse Tone Mapping (*ACM TOG 2017*) | [Code](https://github.com/shleecs/DrTMO_unofficial_pytorch)
 
