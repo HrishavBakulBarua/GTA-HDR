@@ -14,7 +14,7 @@ The official implementation of our GTA-HDR Benchmark Dataset:
 
 ## Our work utilizes the following code bases from State-of-the-art models
 
-HDRCNN - HDR image reconstruction from a single exposure using deep CNNs [Code base](https://github.com/gabrieleilertsen/hdrcnn)
-
+HDRCNN - HDR image reconstruction from a single exposure using deep CNNs (ACM TOG), [Code base](https://github.com/gabrieleilertsen/hdrcnn)
+DrTMO - Deep Reverse Tone Mapping (ACM TOG), [Code base](https://github.com/shleecs/DrTMO_unofficial_pytorch)
 
 
