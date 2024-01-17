@@ -79,6 +79,7 @@ This work is supported by the prestigious [`Global Excellence and Mobility Schol
 
 Common link to some commonly used datasets - [RAISE](https://qualinet.github.io/databases/image/raise___a_raw_images_dataset_for_digital_image_forensics/), HDR-Synth, HDR-Real, and HDR-Eye | [Link](https://github.com/alex04072000/SingleHDR)  
 
+Another huge dataset by [Kim *et al.* (ICCV 2019)](https://github.com/sooyekim/Deep-SR-ITM) 
 
 ### <ins>Dataset summary table</ins>
 
