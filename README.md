@@ -45,4 +45,6 @@ The official implementation of our GTA-HDR Benchmark Dataset:
            
 `City Scene`, site2- The Laval HDR sky database, [Link](http://hdrdb.com/)
 
-`Kalantari` *et al.* - Deep high dynamic range imaging of dynamic scenes (*ACM TOG*), [Link](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/)
+`Kalantari` *et al.* - Deep high dynamic range imaging of dynamic scenes (*ACM TOG 2017*), [Link](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/)
+
+`Endo` *et al.* - Deep reverse tone mapping (*ACM TOG 2017*), [Link](https://www.npal.cs.tsukuba.ac.jp/~endo/projects/DrTMO/)
