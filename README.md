@@ -28,5 +28,6 @@ SingleHDR - Single-Image HDR Reconstruction by Multi-Exposure Generation (WACV 2
 
 ArtHDR-Net - Perceptually Realistic and Accurate HDR Content Creation (APSIPA 2023), [Code base](https://arxiv.org/abs/2309.03827#:~:text=ArtHDR%2DNet%3A%20Perceptually%20Realistic%20and%20Accurate%20HDR%20Content%20Creation,-Hrishav%20Bakul%20Barua&text=High%20Dynamic%20Range%20(HDR)%20content,and%20Augmented%2FVirtual%20Reality%20industries.)
 
+## Our work utilizes the following LDR-HDR datasets
 
 
