@@ -68,10 +68,10 @@ This work is supported by the prestigious [`Global Excellence and Mobility Schol
 `HDR-Synth & HDR-Real` - Single-image HDR reconstruction by learning to reverse the camera pipeline (*CVPR 2020*) | [Link](https://github.com/alex04072000/SingleHDR)
 
 
-| Dataset       |    Year       |     Type     | #HDR<sub>GT<sub> | Resolution | In-the-wild | HDR<sub>Dist<sub> | Scene diversity | Image diversity |
+| Dataset       |    Type     | #HDR<sub>GT<sub> | Resolution | In-the-wild | HDR<sub>Dist<sub> | Scene diversity | Image diversity |
 | ------------- | ------------- | -------------| -------------| -------------| -------------| -------------| -------------| -------------|
-| HDR-Eye  | 2015  | Synthetic | 46 | 512X512  | :x: | :x: | :x: | :x: |
-| Content Cell  | Content Cell  | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
+| HDR-Eye 2015  | Synthetic | 46 | 512X512  | :x: | :x: | :x: | :x: |
+| City Scene 2017  | Mixed | 41222 | 128X64|  :x: | :x: | ✔️ | :x: |
 
 
 
