@@ -18,4 +18,10 @@ HDRCNN - HDR image reconstruction from a single exposure using deep CNNs (ACM TO
 
 DrTMO - Deep Reverse Tone Mapping (ACM TOG 2017), [Code base](https://github.com/shleecs/DrTMO_unofficial_pytorch)
 
+FHDR - HDR Image Reconstruction from a Single LDR Image using Feedback Network (GlobalSIP 2019), [Code base](https://github.com/mukulkhanna/FHDR)
+
+SingleHDR - Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline (CVPR 2020), [Code base](https://github.com/alex04072000/SingleHDR) 
+
+HDR-GAN - HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions (IEEE TIP), [Code base](https://github.com/nonu116/HDR-GAN)
+
 
