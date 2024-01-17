@@ -1,4 +1,4 @@
-# GTA-HDR
+# GTA-HDR: A Dataset for High Dynamic Range Content Creation and Qualtiy Assessment 
 Dataset and code for our newly proposed LDR-HDR dataset: GTA-HDR
 
 ## About the project
