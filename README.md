@@ -85,17 +85,17 @@ Common link to some commonly used datasets - [RAISE](https://qualinet.github.io/
 | Dataset       |    Type     | #HDR<sub>GT<sub> | Resolution | In-the-wild | HDR<sub>Dist<sub> | Scene diversity | Image diversity |
 | ------------- | ------------- | -------------| -------------| -------------| -------------| -------------| -------------| 
 | [HDR-Eye (2015)](https://www.epfl.ch/labs/mmspg/downloads/hdr-eye/)  | Synthetic | 46 | 512&cross;512  | :x: | :x: | :x: | :x: |
-| City Scene (2017)  | Mixed | 41222 | 128&cross;64|  :x: | :x: | :white_check_mark: | :x: |
-|Kalantari *et al.* (2017) | Real | 89 | 1500&cross;1000|:x: | :x: | :x: | :x: |
-| Endo *et al.* (2017) | Synthetic| 1043 |512&cross;512 | :x: | :x: | :x: | :x: |
-| Eilertsen *et al.* (2017)  |Synthetic|96|1024&cross;768| :x: | :x: | :x: | :x: |
-| Lee *et al.* (2018)  |Synthetic|96|512&cross;512| :x: | :x: | :x: | :x: |
-| Cai *et al.* (2018)  |Synthetic|4413|3072&cross;1620| :x: | :x: | :x: | :x: |
-| Prabhakar *et al.* (2019)  |Real|582|1200&cross;900| :x: | :x: | :x: | :x: |
-| LDR-HDR Pair (2020)  |Real|176|1024&cross;1024| :x: | :x: | :x: | :x: |
-| HDR-Synth & HDR-Real (2020)  |Mixed|20537|512&cross;512| :x: | :x: | :x: | :white_check_mark: |
-| SI-HD (2022)  |Real|181|1920&cross;1280| :x: | :x: | :white_check_mark: | :x: |
-| GTA-HDR (ours) (2024) | Synthetic |40000|512&cross;512| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| [City Scene (2017)](https://github.com/jacenfox/ldr2hdr-public)   | Mixed | 41222 | 128&cross;64|  :x: | :x: | :white_check_mark: | :x: |
+|[Kalantari *et al.* (2017)](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/) | Real | 89 | 1500&cross;1000|:x: | :x: | :x: | :x: |
+| [Endo *et al.* (2017)](https://www.npal.cs.tsukuba.ac.jp/~endo/projects/DrTMO/) | Synthetic| 1043 |512&cross;512 | :x: | :x: | :x: | :x: |
+| [Eilertsen *et al.* (2017)](https://computergraphics.on.liu.se/hdrcnn/)  |Synthetic|96|1024&cross;768| :x: | :x: | :x: | :x: |
+| [Lee *et al.* (2018)](https://siyeong-lee.github.io/hdr_vds_dataset/) |Synthetic|96|512&cross;512| :x: | :x: | :x: | :x: |
+| [Cai *et al.* (2018)](https://github.com/csjcai/SICE)  |Synthetic|4413|3072&cross;1620| :x: | :x: | :x: | :x: |
+| [Prabhakar *et al.* (2019)](https://github.com/rajat95/Deep-Deghosting-HDR)  |Real|582|1200&cross;900| :x: | :x: | :x: | :x: |
+| [LDR-HDR Pair (2020)](https://github.com/HanbyolJang/LDR-HDR-pair_Dataset/tree/master)  |Real|176|1024&cross;1024| :x: | :x: | :x: | :x: |
+| [HDR-Synth & HDR-Real (2020)](https://github.com/alex04072000/SingleHDR)  |Mixed|20537|512&cross;512| :x: | :x: | :x: | :white_check_mark: |
+| [SI-HDR (2022)](https://www.cl.cam.ac.uk/research/rainbow/projects/sihdr_benchmark/)  |Real|181|1920&cross;1280| :x: | :x: | :white_check_mark: | :x: |
+| [GTA-HDR (ours)] (2024) | Synthetic |40000|512&cross;512| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 
 
 
