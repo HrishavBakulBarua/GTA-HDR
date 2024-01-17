@@ -70,7 +70,7 @@ This work is supported by the prestigious [`Global Excellence and Mobility Schol
 
 | Dataset       |    Year       |     Type     | #HDR<sub>GT<sub> | Resolution | In-the-wild | HDR<sub>Dist<sub> | Scene diversity | Image diversity |
 | ------------- | ------------- | -------------| -------------| -------------| -------------| -------------| -------------| -------------|
-| HDR-Eye  | 2015  | Synthetic | 46 | 512X512  | :X: | :X: | :X: | :X: |
+| HDR-Eye  | 2015  | Synthetic | 46 | 512X512  | :x: | :x: | :x: | :x: |
 | Content Cell  | Content Cell  | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
 
 
