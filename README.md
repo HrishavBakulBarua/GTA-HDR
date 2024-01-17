@@ -82,6 +82,7 @@ This work is supported by the prestigious [`Global Excellence and Mobility Schol
 | Prabhakar *et al.* (2019)  |Real|582|1200&cross;900| :x: | :x: | :x: | :x: |
 | LDR-HDR Pair (2020)  |Real|176|1024&cross;1024| :x: | :x: | :x: | :x: |
 | HDR-Synth & HDR-Real (2020)  |Mixed|20537|512&cross;512| :x: | :x: | :x: | :x: |
+| GTA-HDR (ours) (2024) | Synthetic |40000|512&cross;512| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 ## Experiments
 
 
