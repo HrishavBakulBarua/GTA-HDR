@@ -28,19 +28,19 @@ This work is supported by the prestigious [`Global Excellence and Mobility Schol
 ### State-of-the-art learning models
 
 
-`HDRCNN` | `ACM TOG 20171` - HDR image reconstruction from a single exposure using deep CNNs | [Code](https://github.com/gabrieleilertsen/hdrcnn)
+`ACM TOG 2017` | `HDRCNN` - HDR image reconstruction from a single exposure using deep CNNs | [Code](https://github.com/gabrieleilertsen/hdrcnn)
 
-`DrTMO` - Deep Reverse Tone Mapping (*ACM TOG 2017*) | [Code](https://github.com/shleecs/DrTMO_unofficial_pytorch)
+`ACM TOG 2017` | `DrTMO` - Deep Reverse Tone Mapping | [Code](https://github.com/shleecs/DrTMO_unofficial_pytorch)
 
-`FHDR` - HDR Image Reconstruction from a Single LDR Image using Feedback Network (*GlobalSIP 2019*) | [Code](https://github.com/mukulkhanna/FHDR)
+`GlobalSIP 2019` | `FHDR` - HDR Image Reconstruction from a Single LDR Image using Feedback Network | [Code](https://github.com/mukulkhanna/FHDR)
 
-`SingleHDR` - Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline (*CVPR 2020*) | [Code](https://github.com/alex04072000/SingleHDR) 
+`CVPR 2020` | `SingleHDR` - Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline (*CVPR 2020*) | [Code](https://github.com/alex04072000/SingleHDR) 
 
-`HDR-GAN` - HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions (*IEEE TIP 2021*) | [Code](https://github.com/nonu116/HDR-GAN)
+`IEEE TIP 2021` | `HDR-GAN` - HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions | [Code](https://github.com/nonu116/HDR-GAN)
 
-`SingleHDR` - Single-Image HDR Reconstruction by Multi-Exposure Generation (*WACV 2023*) | [Code](https://github.com/VinAIResearch/single_image_hdr)
+`WACV 2023` | `SingleHDR` - Single-Image HDR Reconstruction by Multi-Exposure Generation | [Code](https://github.com/VinAIResearch/single_image_hdr)
 
-`ArtHDR-Net` - Perceptually Realistic and Accurate HDR Content Creation (*APSIPA 2023*) | [Code](https://arxiv.org/abs/2309.03827#:~:text=ArtHDR%2DNet%3A%20Perceptually%20Realistic%20and%20Accurate%20HDR%20Content%20Creation,-Hrishav%20Bakul%20Barua&text=High%20Dynamic%20Range%20(HDR)%20content,and%20Augmented%2FVirtual%20Reality%20industries.)
+`APSIPA 2023` | `ArtHDR-Net` - Perceptually Realistic and Accurate HDR Content Creation | [Code](https://arxiv.org/abs/2309.03827#:~:text=ArtHDR%2DNet%3A%20Perceptually%20Realistic%20and%20Accurate%20HDR%20Content%20Creation,-Hrishav%20Bakul%20Barua&text=High%20Dynamic%20Range%20(HDR)%20content,and%20Augmented%2FVirtual%20Reality%20industries.)
 
 
 ### LDR-HDR datasets
