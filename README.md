@@ -13,16 +13,13 @@ This work is supported by the prestigious [`Global Excellence and Mobility Schol
 
 ## Overview
 
-The official implementation of our GTA-HDR Benchmark Dataset:  
+> **_NOTE:_** The official implementation of our GTA-HDR Benchmark Dataset is comming soon!!  
  
 ![My Image](assets/GTA-HDR-Teaser.png)
 
 ## Data collection pipeline
 
 ![My Image](assets/data_pipeline.png)
-
-
-## Coming Soon!!
 
 
 ## Our work utilizes the following:
