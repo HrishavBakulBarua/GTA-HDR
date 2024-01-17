@@ -22,6 +22,6 @@ FHDR - HDR Image Reconstruction from a Single LDR Image using Feedback Network (
 
 SingleHDR - Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline (CVPR 2020), [Code base](https://github.com/alex04072000/SingleHDR) 
 
-HDR-GAN - HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions (IEEE TIP), [Code base](https://github.com/nonu116/HDR-GAN)
+HDR-GAN - HDR Image Reconstruction from Multi-Exposed LDR Images with Large Motions (IEEE TIP 2021), [Code base](https://github.com/nonu116/HDR-GAN)
 
 
