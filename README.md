@@ -45,27 +45,27 @@ This work is supported by the prestigious [`Global Excellence and Mobility Schol
 
 ### LDR-HDR datasets
 
-`HDR-Eye` - Visual attention in LDR and HDR images (*VPQM 2015*) | [Link](https://www.epfl.ch/labs/mmspg/downloads/hdr-eye/)
+`VPQM 2015` | `HDR-Eye` - Visual attention in LDR and HDR images | [Link](https://www.epfl.ch/labs/mmspg/downloads/hdr-eye/)
 
-`City Scene`, site1 - Learning high dynamic range from outdoor panoramas (*ICCV 2017*) | [Link](https://github.com/jacenfox/ldr2hdr-public) 
+`ICCV 2017` | `City Scene`, site1 - Learning high dynamic range from outdoor panoramas | [Link](https://github.com/jacenfox/ldr2hdr-public) 
            
 `City Scene`, site2- The Laval HDR sky database | [Link](http://hdrdb.com/)
 
-`Kalantari` *et al.* - Deep high dynamic range imaging of dynamic scenes (*ACM TOG 2017*) | [Link](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/)
+`ACM TOG 2017` | `Kalantari` *et al.* - Deep high dynamic range imaging of dynamic scenes | [Link](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/)
 
-`Endo` *et al.* - Deep reverse tone mapping (*ACM TOG 2017*) | [Link](https://www.npal.cs.tsukuba.ac.jp/~endo/projects/DrTMO/)
+`ACM TOG 2017` | `Endo` *et al.* - Deep reverse tone mapping | [Link](https://www.npal.cs.tsukuba.ac.jp/~endo/projects/DrTMO/)
 
-`Eilertsen` *et al.* - HDR image reconstruction from a single exposure using deep CNNs (*ACM TOG 2017*) | [Link](https://computergraphics.on.liu.se/hdrcnn/)
+`ACM TOG 2017` | `Eilertsen` *et al.* - HDR image reconstruction from a single exposure using deep CNNs | [Link](https://computergraphics.on.liu.se/hdrcnn/)
 
-`Lee` *et al.* - Deep chain hdri: Reconstructing a high dynamic range image from a single low dynamic range image (*IEEE Access 2018*) | [Link](https://siyeong-lee.github.io/hdr_vds_dataset/)
+`IEEE Access 2018` | `Lee` *et al.* - Deep chain hdri: Reconstructing a high dynamic range image from a single low dynamic range image | [Link](https://siyeong-lee.github.io/hdr_vds_dataset/)
 
-`Cai` *et al.* - Learning a deep single image contrast enhancer from multi-exposure images (*IEEE TIP 2018*) | [Link](https://github.com/csjcai/SICE)
+`IEEE TIP 2018` | `Cai` *et al.* - Learning a deep single image contrast enhancer from multi-exposure images | [Link](https://github.com/csjcai/SICE)
 
-`Prabhakar` *et al.* - A fast, scalable, and reliable deghosting method for extreme exposure fusion (*IEEE ICCP 2019*) | [Link](https://github.com/rajat95/Deep-Deghosting-HDR)
+`IEEE ICCP 2019` | `Prabhakar` *et al.* - A fast, scalable, and reliable deghosting method for extreme exposure fusion | [Link](https://github.com/rajat95/Deep-Deghosting-HDR)
 
-`LDR-HDR Pair` - Dynamic range expansion using cumulative histogram learning for high dynamic range image generation (*IEEE Access 2020*) | [Link](https://github.com/HanbyolJang/LDR-HDR-pair_Dataset/tree/master)
+`IEEE Access 2020` | `LDR-HDR Pair` - Dynamic range expansion using cumulative histogram learning for high dynamic range image generation | [Link](https://github.com/HanbyolJang/LDR-HDR-pair_Dataset/tree/master)
 
-`HDR-Synth & HDR-Real` - Single-image HDR reconstruction by learning to reverse the camera pipeline (*CVPR 2020*) | [Link](https://github.com/alex04072000/SingleHDR)
+`CVPR 2020` | `HDR-Synth & HDR-Real` - Single-image HDR reconstruction by learning to reverse the camera pipeline | [Link](https://github.com/alex04072000/SingleHDR)
 
 
 | Dataset       |    Type     | #HDR<sub>GT<sub> | Resolution | In-the-wild | HDR<sub>Dist<sub> | Scene diversity | Image diversity |
