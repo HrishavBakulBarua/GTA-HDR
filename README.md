@@ -32,6 +32,6 @@ ArtHDR-Net - Perceptually Realistic and Accurate HDR Content Creation (APSIPA 20
 
 HDR-Eye - Visual attention in LDR and HDR images (VPQM 2015), [Link](https://www.epfl.ch/labs/mmspg/downloads/hdr-eye/)
 
-City Scene - Learning high dynamic range from outdoor panoramas (ICCV 2017), [Link](https://github.com/jacenfox/ldr2hdr-public) 
+City Scene, site1 - Learning high dynamic range from outdoor panoramas (ICCV 2017), [Link](https://github.com/jacenfox/ldr2hdr-public) 
            
-           - The Laval HDR sky database, [Link](http://hdrdb.com/)
+City Scene, site2- The Laval HDR sky database, [Link](http://hdrdb.com/)
