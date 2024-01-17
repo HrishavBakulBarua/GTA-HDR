@@ -9,7 +9,7 @@ Project Members - [Hrishav Bakul Barua](https://www.researchgate.net/profile/Hri
 
 ### Funding details
 
-This work is supported by the [Global Excellence and Mobility Scholarship (GEMS)](https://www.monash.edu.my/research/support-and-scholarships/gems-scholarship), Monash University. This research is also supported, in part, by the E-Science fund under the project: *Innovative High Dynamic Range Imaging - From Information Hiding to Its Applications* **(Grant No. 01-02-10-SF0327)**.
+`This work is supported by the [Global Excellence and Mobility Scholarship (GEMS)](https://www.monash.edu.my/research/support-and-scholarships/gems-scholarship), Monash University. This research is also supported, in part, by the E-Science fund under the project: *Innovative High Dynamic Range Imaging - From Information Hiding to Its Applications* **(Grant No. 01-02-10-SF0327)**.`
 
 ## Overview
 
