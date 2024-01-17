@@ -1,4 +1,4 @@
-# GTA-HDR: A Dataset for High Dynamic Range Content Creation and Qualtiy Assessment  
+# GTA-HDR: High Dynamic Range Content Creation and Qualtiy Assessment using Deep Learning   
 
 This page contains all the Datasets and Code bases involved in experimenting and establishing our newly proposed LDR-HDR dataset (GTA-HDR) for Deep Learning models.
 
