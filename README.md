@@ -58,3 +58,9 @@ This work is supported by the prestigious [`Global Excellence and Mobility Schol
 `Lee` *et al.* - Deep chain hdri: Reconstructing a high dynamic range image from a single low dynamic range image (*IEEE Access 2018*) | [Link](https://siyeong-lee.github.io/hdr_vds_dataset/)
 
 `Cai` *et al.* - Learning a deep single image contrast enhancer from multi-exposure images (*IEEE TIP 2018*) | [Link](https://github.com/csjcai/SICE)
+
+`Prabhakar` *et al.* - A fast, scalable, and reliable deghosting method for extreme exposure fusion (*IEEE ICCP 2019*) | [Link](https://github.com/rajat95/Deep-Deghosting-HDR)
+
+`LDR-HDR Pair` - Dynamic range expansion using cumulative histogram learning for high dynamic range image generation (*IEEE Access 2020*) | [Link](https://github.com/HanbyolJang/LDR-HDR-pair_Dataset/tree/master)
+
+`HDR-Synth & HDR-Real` - Single-image HDR reconstruction by learning to reverse the camera pipeline (*CVPR 2020*) | [Link](https://github.com/alex04072000/SingleHDR)
