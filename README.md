@@ -111,5 +111,8 @@ Dataset: [Trusun *et al.* (Wiley CGF 2016)](https://user.ceng.metu.edu.tr/~akyuz
 ![My Image](assets/main-results.png)
 
 
+A page for awsome Deep Learning based HDR Reconstruction models: [Link](https://github.com/vinthony/awesome-deep-hdr) 
+
+
 
 
