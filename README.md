@@ -22,7 +22,7 @@ This work is supported by the prestigious [`Global Excellence and Mobility Schol
 
 ![My Image](assets/data_pipeline.png)
 
-
+Our pipeline is built on the code base adopted from [RenderDoc for Game data](https://github.com/xiaofeng94/renderdoc_for_game_data)
 
 ## Dataset characteristics
 
