@@ -1,5 +1,8 @@
 # GTA-HDR: High Dynamic Range Content Creation and Qualtiy Assessment using Deep Learning   
 
+
+![My Image](assets/GTA-HDR-Teaser.png)
+
 This page contains all the Datasets and Code bases involved in experimenting and establishing our newly proposed LDR-HDR dataset (GTA-HDR) for Deep Learning models.
 
 ## About the project
@@ -14,9 +17,14 @@ This work is supported by the prestigious [`Global Excellence and Mobility Schol
 
 ## Overview
 
+
+![My Image](assets/research-gap.png)
+
 The proposed GTA-HDR dataset
 addresses the identified gaps in the current publicly available
 datasets for HDR image reconstruction, including: 
+
+
 
 1) GTA-HDR is a large-scale (i.e., 40K ground truth HDR images) synthetic dataset sampled from the GTA-V video game data which
 utilizes [ray tracing technology](https://books.google.co.in/books?hl=en&lr=&id=YPblYyLqBM4C&oi=fnd&pg=PA1&dq=an+introduction+to+ray+tracing&ots=y156-HnhNb&sig=uEpyVWyaQXveV5nLwkelvyXi4HI&redir_esc=y#v=onepage&q=an%20introduction%20to%20ray%20tracing&f=false) that simulates the physics
@@ -31,7 +39,6 @@ rural, in-the-wild), different lighting conditions (e.g., morning,
 midday, evening, night), and different weather and season
 conditions (e.g., summer, winter, snowy, rainy, sunny, cloudy).
 
-![My Image](assets/GTA-HDR-Teaser.png)
 
 > **_NOTE:_** **The official GTA-HDR Benchmark Dataset is releasing soon!!**  
 
