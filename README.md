@@ -25,8 +25,6 @@ behind light and shadows.
 2) GTA-HDR includes HDR images
 with sufficient resolution (i.e., 512 × 512 and 1024 × 1024).
 
-and,
-
 3) GTA-HDR includes HDR images capturing a diverse
 set of scenes including, different locations (e.g., indoor, urban,
 rural, in-the-wild), different lighting conditions (e.g., morning,
