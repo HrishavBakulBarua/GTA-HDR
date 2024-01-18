@@ -41,7 +41,6 @@ conditions (e.g., summer, winter, snowy, rainy, sunny, cloudy).
 
 | Steps       |    Details/Link     |
 | ------------- | ------------- |
-
 |1. GTA-V has built-in HDR-10 support for displaying video sequences on HDR displays| The details can be found in [Link1](https://en.wikipedia.org/wiki/HDR10), [Link2](http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/) |
 
 
