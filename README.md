@@ -45,6 +45,7 @@ conditions (e.g., summer, winter, snowy, rainy, sunny, cloudy).
 |1(b). We used Script Hook V plugin to capture HDR frames from the GTA-V game-play sequences |The details can be found in [Link1](http://www.dev-c.com/gtav/scripthookv/), [Link2](https://www.gta5-mods.com/tools/scripthookv-net) |
 |1(c). Our pipeline is inspired by the code base adopted from [RenderDoc for Game data (IEEE TIP 2021)](https://ieeexplore.ieee.org/document/9580716) | The details can be found in [Link1](https://github.com/baldurk/renderdoc), [Link2](https://github.com/xiaofeng94/renderdoc_for_game_data) |
 |2. We removed frames that are similar to the previous or next frames in the sequence to avoid unnecessary increase in dataset size| We find the [Frame Similarity](https://arxiv.org/abs/1908.07410) using [Chamfer Similarity Metric](https://www.ijcai.org/Proceedings/77-2/Papers/024.pdf): [Link](https://github.com/MKLab-ITI/visil) |
+|3. We performed transformations on the original LDR images to generate multiple exposure LDR images (i.e., [exposure values](https://arxiv.org/abs/2210.15897) EV 0, ±1, ±2, ±3, and ±4) and different [contrast levels](https://ieeexplore.ieee.org/document/8259342)| For exposure: [Link](https://github.com/VinAIResearch/single_image_hdr) and contrast: [Link](https://github.com/csjcai/SICE)|
 
 ## Dataset characteristics
 
