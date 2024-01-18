@@ -42,7 +42,7 @@ conditions (e.g., summer, winter, snowy, rainy, sunny, cloudy).
 | Steps       |    Details/Link     |
 | ------------- | ------------- |
 |1. GTA-V has built-in HDR-10 support for displaying video sequences on HDR displays| The details can be found in [Link1](https://en.wikipedia.org/wiki/HDR10), [Link2](http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/) |
-
+|2. We used Script Hook V plugin to capture HDR frames from the GTA-V game-play sequences |The details can be found in [Link1](http://www.dev-c.com/gtav/scripthookv/), [Link2](https://www.gta5-mods.com/tools/scripthookv-net) |
 
 Our pipeline is built on the code base adopted from [RenderDoc for Game data](https://github.com/xiaofeng94/renderdoc_for_game_data)
 
