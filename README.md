@@ -18,13 +18,13 @@ The proposed GTA-HDR dataset
 addresses the identified gaps in the current publicly available
 datasets for HDR image reconstruction, including: 
 
-1) GTA-HDR is a large-scale (i.e., 40K ground truth HDR images) syn-
-thetic dataset sampled from the GTA-V video game data which
+1) GTA-HDR is a large-scale (i.e., 40K ground truth HDR images) synthetic dataset sampled from the GTA-V video game data which
 utilizes ray tracing technology that simulates the physics
 behind light and shadows.
 
 2) GTA-HDR includes HDR images
 with sufficient resolution (i.e., 512 × 512 and 1024 × 1024).
+
 and,
 
 3) GTA-HDR includes HDR images capturing a diverse
