@@ -14,6 +14,25 @@ This work is supported by the prestigious [`Global Excellence and Mobility Schol
 
 ## Overview
 
+The proposed GTA-HDR dataset
+addresses the identified gaps in the current publicly available
+datasets for HDR image reconstruction, including: 
+
+1) GTA-HDR is a large-scale (i.e., 40K ground truth HDR images) syn-
+thetic dataset sampled from the GTA-V video game data which
+utilizes ray tracing technology that simulates the physics
+behind light and shadows.
+
+2) GTA-HDR includes HDR images
+with sufficient resolution (i.e., 512 × 512 and 1024 × 1024).
+and,
+
+3) GTA-HDR includes HDR images capturing a diverse
+set of scenes including, different locations (e.g., indoor, urban,
+rural, in-the-wild), different lighting conditions (e.g., morning,
+midday, evening, night), and different weather and season
+conditions (e.g., summer, winter, snowy, rainy, sunny, cloudy).
+
 ![My Image](assets/GTA-HDR-Teaser.png)
 
 > **_NOTE:_** **The official GTA-HDR Benchmark Dataset is releasing soon!!**  
@@ -21,6 +40,12 @@ This work is supported by the prestigious [`Global Excellence and Mobility Schol
 ## Data collection pipeline
 
 ![My Image](assets/data_pipeline.png)
+
+1. GTA-V has built-in HDR-10 support for displaying video sequences on HDR displays.
+
+   ~~~
+
+   ~~~
 
 Our pipeline is built on the code base adopted from [RenderDoc for Game data](https://github.com/xiaofeng94/renderdoc_for_game_data)
 
