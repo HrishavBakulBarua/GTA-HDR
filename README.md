@@ -23,8 +23,8 @@ there is a significant gap in the publicly available datasets
 required to advance this research direction. Moreover, currently, there are no
 available datasets that adequately address the problem of no-
 reference HDR image quality assessment, which demands
-vast collections of ground truth HDR HDR<sub>GT<sub> 
-and distorted HDR HDR<sub>Dis<sub>
+vast collections of ground truth HDR HDR<sub>GT</sub> 
+and distorted HDR HDR<sub>Dis</ub>
 pairs. In summary, there is a substantial research
 gap pertaining to benchmark datasets needed to advance the
 research on HDR image reconstruction, motivating the
