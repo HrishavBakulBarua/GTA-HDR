@@ -16,7 +16,18 @@ Project Members - [Hrishav Bakul Barua](https://www.researchgate.net/profile/Hri
 This work is supported by the prestigious [`Global Excellence and Mobility Scholarship (GEMS)`](https://www.monash.edu.my/research/support-and-scholarships/gems-scholarship), Monash University. This research is also supported, in part, by the E-Science fund under the project: *Innovative High Dynamic Range Imaging - From Information Hiding to Its Applications* `(Grant No. 01-02-10-SF0327)`.
 
 ## Overview
-
+Given that the performance of any data-driven learning-
+based method for HDR image reconstruction largely depends
+on the size and diversity of the datasets used for development,
+there is a significant gap in the publicly available datasets
+required to advance this research direction. Moreover, currently, there are no
+available datasets that adequately address the problem of no-
+reference HDR image quality assessment, which demands
+vast collections of ground truth HDR and distorted HDR
+pairs. In summary, there is a substantial research
+gap pertaining to benchmark datasets needed to advance the
+research on HDR image reconstruction, motivating the
+creation of an appropriate large-scale dataset.
 
 ![My Image](assets/research-gap.png)
 
