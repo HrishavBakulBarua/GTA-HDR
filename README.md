@@ -23,7 +23,7 @@ there is a significant gap in the publicly available datasets
 required to advance this research direction. Moreover, currently, there are no
 available datasets that adequately address the problem of no-
 reference HDR image quality assessment, which demands
-vast collections of ground truth HDR and distorted HDR
+vast collections of ground truth HDR (HDR<sub>GT<sub>) and distorted HDR (HDR<sub>Dis<sub>)
 pairs. In summary, there is a substantial research
 gap pertaining to benchmark datasets needed to advance the
 research on HDR image reconstruction, motivating the
@@ -129,7 +129,7 @@ Dataset: [Trusun *et al.* (Wiley CGF 2016)](https://user.ceng.metu.edu.tr/~akyuz
 
 ### <ins>Dataset summary table</ins>
 
-| Dataset       |    Type     | #HDR<sub>GT<sub> | Resolution | In-the-wild | HDR<sub>Dist<sub> | Scene diversity | Image diversity |
+| Dataset       |    Type     | #HDR<sub>GT<sub> | Resolution | In-the-wild | HDR<sub>Dis<sub> | Scene diversity | Image diversity |
 | ------------- | ------------- | -------------| -------------| -------------| -------------| -------------| -------------| 
 | [HDR-Eye (2015)](https://www.epfl.ch/labs/mmspg/downloads/hdr-eye/)  | Synthetic | 46 | 512&cross;512  | :x: | :x: | :x: | :x: |
 | [City Scene (2017)](https://github.com/jacenfox/ldr2hdr-public)   | Mixed | 41222 | 128&cross;64|  :x: | :x: | :white_check_mark: | :x: |
