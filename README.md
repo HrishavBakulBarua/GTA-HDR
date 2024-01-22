@@ -22,7 +22,7 @@ on the size and diversity of the datasets used for development,
 there is a significant gap in the publicly available datasets
 required to advance this research direction. Moreover, currently, there are no
 available datasets that adequately address the problem of [no-
-reference HDR image quality assessment](https://github.com/banterle/NoR-VDPNet) ([other link](https://github.com/banterle/NoR-VDPNetpp)), which demands
+reference HDR image quality assessment](https://github.com/banterle/NoR-VDPNet) ([other [link1](https://github.com/banterle/NoR-VDPNetpp), [link2](https://github.com/fabiocarrara/diqm)), which demands
 vast collections of ground truth HDR (HDR<sub>GT</sub>) 
 and distorted HDR (HDR<sub>Dis</sub>)
 pairs. In summary, there is a substantial research
