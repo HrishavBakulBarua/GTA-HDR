@@ -65,7 +65,7 @@ conditions (e.g., summer, winter, snowy, rainy, sunny, cloudy).
 |1(c). Our pipeline is inspired by the code base adopted from [RenderDoc for Game data (IEEE TIP 2021)](https://ieeexplore.ieee.org/document/9580716) | The details can be found in [Link1](https://github.com/baldurk/renderdoc), [Link2](https://github.com/xiaofeng94/renderdoc_for_game_data) |
 |2. We removed frames that are similar to the previous or next frames in the sequence to avoid unnecessary increase in dataset size| We find the [Frame Similarity](https://arxiv.org/abs/1908.07410) using [Chamfer Similarity Metric](https://www.ijcai.org/Proceedings/77-2/Papers/024.pdf): [Link](https://github.com/MKLab-ITI/visil) |
 |3(a). We performed transformations on the original LDR images to generate multiple exposure LDR images (i.e., [exposure values](https://arxiv.org/abs/2210.15897) EV 0, ±1, ±2, ±3, and ±4) and different [contrast levels](https://ieeexplore.ieee.org/document/8259342)| For exposure: [Link](https://github.com/VinAIResearch/single_image_hdr) and contrast: [Link](https://github.com/csjcai/SICE)|
-|3(b). We also generated distorted HDR images by randomly utilizing state-of-the-art methods|Some of the methods: [M1](), [M2](), [M3](), [M4](), [M5](), [M6](), [M7](), [M8]()|
+|3(b). We also generated distorted HDR images by randomly utilizing state-of-the-art methods|Some of the methods: [M1](https://github.com/marcelsan/Deep-HdrReconstruction), [M2](), [M3](), [M4](), [M5](), [M6](), [M7](), [M8]()|
 
 ## Dataset characteristics
 
