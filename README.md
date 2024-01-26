@@ -158,7 +158,7 @@ Dataset: [Trusun *et al.* (Wiley CGF 2016)](https://user.ceng.metu.edu.tr/~akyuz
 ![My Image](assets/main-results.png)
 
 
-A page for awsome Deep Learning based HDR Reconstruction models: [Link](https://github.com/vinthony/awesome-deep-hdr) 
+A page for awsome Deep Learning based HDR Reconstruction models: [Link1](https://github.com/vinthony/awesome-deep-hdr), [Link2](https://github.com/rebeccaeexu/Awesome-High-Dynamic-Range-Imaging?tab=readme-ov-file) 
 
 A page for awsome Deep Learning based Underexposed Image Enhancement models: [Link](https://github.com/dawnlh/awesome-low-light-image-enhancement) 
 
