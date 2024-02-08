@@ -74,10 +74,15 @@ conditions (e.g., summer, winter, snowy, rainy, sunny, cloudy).
 ## Dataset characteristics
 
 ### <ins>Scene diversity</ins>
+GTA-HDR dataset scene diversity. Samples from the GTA-HDR dataset with multiple variations in location, weather,
+objects and time. The scene diversity ensures a thorough coverage of pixel colors, brightness, and luminance.
 
 ![My Image](assets/Scene_diversity.png)
 
 ### <ins>Image diversity</ins>
+GTA-HDR dataset image diversity. For any image-to-image translation dataset, it is important to include a sufficient
+amount of samples with diverse range of color hues, saturation, exposure, and contrast levels. The final set of images in the
+dataset amounts to a total of 40K × 25 = 1M LDR, 40K HDR, and 40K distorted HDR images.
 
 ![My Image](assets/Image_diversity.png)
 
@@ -157,9 +162,10 @@ Dataset: [Trusun *et al.* (Wiley CGF 2016)](https://user.ceng.metu.edu.tr/~akyuz
  
 ## Experiments and Results
 
-
+Impact of the GTA-HDR dataset on the performance of the state-of-the-art in HDR image reconstruction. For more details and experimental results see the paper!!
 ![My Image](assets/main-results.png)
 
+HDR images reconstructed with and without GTA-HDR as a training dataset. For more details and experimental results see the paper!!
 ![My Image](assets/results_images.png)
 
 
