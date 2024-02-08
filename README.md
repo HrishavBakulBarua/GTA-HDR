@@ -75,8 +75,11 @@ conditions (e.g., summer, winter, snowy, rainy, sunny, cloudy).
 
 ### <ins>Scene diversity</ins>
 
+![My Image](assets/Scene_diversity.png)
+
 ### <ins>Image diversity</ins>
 
+![My Image](assets/Image_diversity.png)
 
 ## Our work utilizes the following:
 
