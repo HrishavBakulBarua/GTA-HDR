@@ -68,8 +68,10 @@ conditions (e.g., summer, winter, snowy, rainy, sunny, cloudy).
 |3(b). We also generated distorted HDR images by randomly utilizing state-of-the-art methods|Some of the methods: [M1](https://github.com/marcelsan/Deep-HdrReconstruction), [M2](https://github.com/nonu116/HDR-GAN), [M3](https://github.com/VinAIResearch/PSENet-Image-Enhancement)|
 
 > We stored the final HDR and LDR images in ".hdr" and ".png" formats, respectively
-  
 
+> **_NOTE:_**  Kindly fillup the agreement form to get access to the novel GTA-HDR Dataset used in this work.
+  
+Please fillup the [Dataset Agreement Form](https://drive.google.com/file/d/1GpJ2Xgn4R43SmUIHLSVpYCCIVTG_FhTC/view?usp=sharing) and mail to [Hrishav Bakul Barua](https://www.researchgate.net/profile/Hrishav-Barua) (hbarua@acm.org) to get access.
 
 ## Dataset characteristics
 
