@@ -40,7 +40,11 @@ creation of an appropriate large-scale dataset.
 
 ![My Image](assets/research-gap.png)
 
-![My Image](assets/tone-mapping-new.png)
+<div>
+    
+    <img src="tone-mapping-new.png" alt="Image 2" width="200" style="float:left; margin-right: 10px;" />
+    <p>This is some text.</p>
+</div>
 
 The proposed GTA-HDR dataset
 addresses the identified gaps in the current publicly available
