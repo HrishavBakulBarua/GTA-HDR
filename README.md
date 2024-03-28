@@ -41,7 +41,6 @@ creation of an appropriate large-scale dataset.
 ![My Image](assets/research-gap.png)
 
 <div>
-    
     <img src="tone-mapping-new.png" alt="Image 2" width="200" style="float:left; margin-right: 10px;" />
     <p>This is some text.</p>
 </div>
