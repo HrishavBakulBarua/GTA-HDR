@@ -3,7 +3,7 @@
 
 ![My Image](assets/GTA-HDR-Teaser.png)
 
-This page contains all the Datasets and Code bases involved in experimenting and establishing our newly proposed LDR-HDR dataset (GTA-HDR) for Deep Learning models.
+This page contains all the Datasets and Code bases involved in experimenting and establishing our newly proposed LDR-HDR dataset (GTA-HDR) for Deep Learning models. In this work, we propose GTA-HDR, a large-scale synthetic dataset for HDR image reconstruction, sampled from the photo-realistic (i.e., [HDR-10](https://en.wikipedia.org/wiki/HDR10), [link](https://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/) enabled game [Grand Theft Auto V](https://www.rockstargames.com/gta-v) (GTA-V) by [Rockstar Games](https://www.rockstargames.com). 
 
 ## About the project
 
