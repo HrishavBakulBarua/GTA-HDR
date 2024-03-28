@@ -145,9 +145,9 @@ Translation| [Code](https://arxiv.org/pdf/2402.06692.pdf)
 
 `SIGGRAPH 2022` | `SI-HDR` - Comparison of single image hdr reconstruction methods — the caveats of quality assessment | [Link](https://www.cl.cam.ac.uk/research/rainbow/projects/sihdr_benchmark/)
 
-Common link to some commonly used datasets - [RAISE (ACM MMSys'15)](https://qualinet.github.io/databases/image/raise___a_raw_images_dataset_for_digital_image_forensics/), HDR-Synth, HDR-Real, and HDR-Eye | [Link](https://github.com/alex04072000/SingleHDR)  
+Common link to some commonly used datasets - [RAISE (ACM MMSys'15)](https://qualinet.github.io/databases/image/raise___a_raw_images_dataset_for_digital_image_forensics/), [HDR-Synth, HDR-Real, and HDR-Eye](https://github.com/alex04072000/SingleHDR)  
 
-Another huge dataset by [Kim *et al.* (ICCV 2019)](https://github.com/sooyekim/Deep-SR-ITM) (not used in our evaluation due to reasons stated in the paper)
+Another huge dataset by [Deep-SR-ITM, Kim *et al.* (ICCV 2019)](https://github.com/sooyekim/Deep-SR-ITM) (not used in our evaluation due to reasons stated in the paper)
 
 Dataset: [Sen *et al.* (ACM TOG 2012)](https://web.ece.ucsb.edu/~psen/hdrvideo) (not used in our evaluation due to reasons stated in the paper)
 
