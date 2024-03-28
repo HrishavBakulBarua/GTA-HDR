@@ -183,7 +183,12 @@ Impact of the GTA-HDR dataset on the performance of the state-of-the-art in HDR 
 For more details and experimental results please check out the paper!!
 ![My Image](assets/main-results.png)
 
-HDR images reconstructed with and without GTA-HDR as a training dataset. For more details and experimental results please check out the paper!!
+
+HDR images reconstructed with and without GTA-HDR as part of the training dataset, along with the RGB histograms and KL-divergence values. Base: HDR images reconstructed with [ArtHDR-Net](https://arxiv.org/abs/2309.03827#:~:text=ArtHDR%2DNet%3A%20Perceptually%20Realistic%20and%20Accurate%20HDR%20Content%20Creation,-Hrishav%20Bakul%20Barua&text=High%20Dynamic%20Range%20(HDR)%20content,and%20Augmented%2FVirtual%20Reality%20industries.)
+ trained without GTA-HDR data; Ours: HDR images reconstructed with [ArtHDR-Net](https://arxiv.org/abs/2309.03827#:~:text=ArtHDR%2DNet%3A%20Perceptually%20Realistic%20and%20Accurate%20HDR%20Content%20Creation,-Hrishav%20Bakul%20Barua&text=High%20Dynamic%20Range%20(HDR)%20content,and%20Augmented%2FVirtual%20Reality%20industries.)
+ trained with GTA-HDR data; GT: Ground truth.
+
+For more details and experimental results please check out the paper!!
 ![My Image](assets/results_images.png)
 
 
