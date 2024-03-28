@@ -41,7 +41,7 @@ creation of an appropriate large-scale dataset.
 ![My Image](assets/research-gap.png)
 
 <div>
-    <img src="assets/tone-mapping.png" alt="Image 2" width="600" style="float:left; margin-right: 100px;" />
+    <img src="assets/tone-mapping.png" alt="Image 2" width="800" style="float:left; margin-right: 100px;" />
 </div>
 
 The proposed GTA-HDR dataset
