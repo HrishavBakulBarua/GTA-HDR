@@ -161,6 +161,13 @@ Dataset: [Sen *et al.* (ACM TOG 2012)](https://web.ece.ucsb.edu/~psen/hdrvideo) 
 
 Dataset: [Trusun *et al.* (Wiley CGF 2016)](https://user.ceng.metu.edu.tr/~akyuz/files/eg2016/index.html) (not used in our evaluation due to reasons stated in the paper)
 
+### <ins>Comprehensive surveys</ins>
+
+`IEEE TPAMI 2022` | `Deep Learning for HDR Imaging: State-of-the-Art and Future Trends` | [Link](https://ieeexplore.ieee.org/document/9594668)
+
+`Elsevier DSP 2023` | `High Dynamic Range Image Tone Mapping: Literature review and performance benchmark` | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1051200423001100#:~:text=The%20research%20on%20HDR%20image,neural%20networks%20in%20this%20field.)
+
+
 ### <ins>Dataset summary table</ins>
 
 | Dataset       |    Type     | #HDR<sub>GT<sub> | Resolution | In-the-wild | HDR<sub>Dis<sub> | Scene diversity | Image diversity |
