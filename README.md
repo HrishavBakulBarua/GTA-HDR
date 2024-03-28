@@ -41,10 +41,10 @@ creation of an appropriate large-scale dataset.
 ![My Image](assets/research-gap.png)
 
 <div style="display: inline-block;">
-    <img src="assets/research-gap.png" alt="Image 1" width="400" />
+    <img src="assets/research-gap.png" alt="Image 1" width="300" />
 </div>
 <div style="display: inline-block;">
-    <img src="assets/tone-mapping-new.png" alt="Image 2" width="400" />
+    <img src="assets/tone-mapping-new.png" alt="Image 2" width="300" />
 </div>
 
 The proposed GTA-HDR dataset
