@@ -178,12 +178,12 @@ Dataset: [Trusun *et al.* (Wiley CGF 2016)](https://user.ceng.metu.edu.tr/~akyuz
 ## Experiments and Results
 
 Impact of the GTA-HDR dataset on the performance of the state-of-the-art in HDR image reconstruction. 
-Impact of the GTA-HDR dataset on the performance of the state-of-the-art in HDR image reconstruction. R: Real data combines the datasets proposed in [Kalantari *et al.* (2017)](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/), [Prabhakar *et al.* (2019)](https://github.com/rajat95/Deep-Deghosting-HDR), [LDR-HDR Pair (2020)](https://github.com/HanbyolJang/LDR-HDR-pair_Dataset/tree/master)  and the real images from the datasets proposed in [City Scene (2017)](https://github.com/jacenfox/ldr2hdr-public); R &oplus S: This combination contains the mixed datasets (including both real and synthetic data) proposed in [City Scene (2017)](https://github.com/jacenfox/ldr2hdr-public) and the real datasets proposed in [Kalantari *et al.* (2017)](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/), [Prabhakar *et al.* (2019)](https://github.com/rajat95/Deep-Deghosting-HDR), [LDR-HDR Pair (2020)](https://github.com/HanbyolJang/LDR-HDR-pair_Dataset/tree/master); GTA-HDR: Proposed synthetic dataset; E2E: End-to-end training; FT: Finetuning of the original pre-trained models. The performance of all methods is evaluated on a separate dataset proposed in [HDR-Synth & HDR-Real (2020)](https://github.com/alex04072000/SingleHDR).
+Impact of the GTA-HDR dataset on the performance of the state-of-the-art in HDR image reconstruction. R: Real data combines the datasets proposed in [Kalantari *et al.* (2017)](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/), [Prabhakar *et al.* (2019)](https://github.com/rajat95/Deep-Deghosting-HDR), [LDR-HDR Pair (2020)](https://github.com/HanbyolJang/LDR-HDR-pair_Dataset/tree/master)  and the real images from the datasets proposed in [City Scene (2017)](https://github.com/jacenfox/ldr2hdr-public); `R &oplus S`: This combination contains the mixed datasets (including both real and synthetic data) proposed in [City Scene (2017)](https://github.com/jacenfox/ldr2hdr-public) and the real datasets proposed in [Kalantari *et al.* (2017)](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/), [Prabhakar *et al.* (2019)](https://github.com/rajat95/Deep-Deghosting-HDR), [LDR-HDR Pair (2020)](https://github.com/HanbyolJang/LDR-HDR-pair_Dataset/tree/master); GTA-HDR: Proposed synthetic dataset; E2E: End-to-end training; FT: Finetuning of the original pre-trained models. The performance of all methods is evaluated on a separate dataset proposed in [HDR-Synth & HDR-Real (2020)](https://github.com/alex04072000/SingleHDR).
 
-For more details and experimental results see the paper!!
+For more details and experimental results please check out the paper!!
 ![My Image](assets/main-results.png)
 
-HDR images reconstructed with and without GTA-HDR as a training dataset. For more details and experimental results see the paper!!
+HDR images reconstructed with and without GTA-HDR as a training dataset. For more details and experimental results please check out the paper!!
 ![My Image](assets/results_images.png)
 
 
