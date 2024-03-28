@@ -40,7 +40,7 @@ creation of an appropriate large-scale dataset.
 
 ![My Image](assets/research-gap.png)
 
-##Overview of Tone-mapping and Inverse tome-mapping (using Deep Learning)
+## Overview of Tone-mapping and Inverse tome-mapping (using Deep Learning)
 [Tone mapping](https://www.sciencedirect.com/science/article/abs/pii/S1051200423001100#:~:text=Tone%20mapping%20is%20usually%20performed,reduce%20the%20overall%20computational%20complexity.) is the process of mapping the colors of HDR images capturing real-world scenes with a wide range of illumination levels to LDR images appropriate for standard displays with limited dynamic range.
 [Inverse tone mapping](https://ieeexplore.ieee.org/document/9594668) is the reverse process accomplished with either traditional (non-learning) methods or data-driven learning-based approaches.
 
