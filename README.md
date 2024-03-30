@@ -209,6 +209,30 @@ A page for awsome Deep Learning based HDR Reconstruction models: [Link1](https:/
 
 A page for awsome Deep Learning based Underexposed Image Enhancement models: [Link](https://github.com/dawnlh/awesome-low-light-image-enhancement) 
 
+##  Citation 
 
+If you find our work (i.e. the code, the theory/concept, or the dataset useful in your research or development activities, please cite our paper as follows:
+
+~~~
+@article{barua2024gta,
+  title={GTA-HDR: A Large-Scale Synthetic Dataset for HDR Image Reconstruction},
+  author={Barua, Hrishav Bakul and Stefanov, Kalin and Wong, KokSheik and Dhall, Abhinav and Krishnasamy, Ganesh},
+  journal={arXiv preprint arXiv:2403.17837},
+  year={2024}
+}
+~~~
+
+
+## License and Copyright
+
+
+~~~
+----------------------------------------------------------------------------------------
+Copyright 2022 | All the authors and contributors of this repository as mentioned above.
+----------------------------------------------------------------------------------------
+
+~~~
+
+Please check the [License](LICENSE) Agreement.
 
 
