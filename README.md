@@ -213,7 +213,7 @@ A page for awsome Deep Learning based Underexposed Image Enhancement models: [Li
 
 ##  Citation 
 
-If you find our work (i.e. the code, the theory/concept, or the dataset useful in your research or development activities, please cite our paper as follows:
+If you find our work (i.e. the code, the theory/concept, or the dataset) useful in your research or development activities, please cite our paper as follows:
 
 ~~~
 @article{barua2024gta,
