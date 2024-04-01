@@ -2,7 +2,7 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-    <img src=""assets/game.gif" alt="Alt Text">
+    <img src="assets/game.gif" alt="Alt Text">
 </div>
 
 ![My Image](assets/GTA-HDR-Teaser.png)
