@@ -1,5 +1,6 @@
 # GTA-HDR: High Dynamic Range Content Creation and Qualtiy Assessment using Deep Learning   
 
+![Alt Text](assets/game.gif)
 
 ![My Image](assets/GTA-HDR-Teaser.png)
 
