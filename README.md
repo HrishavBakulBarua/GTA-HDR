@@ -56,14 +56,14 @@ datasets for HDR image reconstruction, including:
 
 
 
-1) GTA-HDR is a large-scale (i.e., 40K ground truth HDR images) synthetic dataset sampled from the GTA-V video game data which
+a) GTA-HDR is a large-scale (i.e., 40K ground truth HDR images) synthetic dataset sampled from the GTA-V video game data which
 utilizes [ray tracing technology](https://books.google.co.in/books?hl=en&lr=&id=YPblYyLqBM4C&oi=fnd&pg=PA1&dq=an+introduction+to+ray+tracing&ots=y156-HnhNb&sig=uEpyVWyaQXveV5nLwkelvyXi4HI&redir_esc=y#v=onepage&q=an%20introduction%20to%20ray%20tracing&f=false) that simulates the physics
 behind light and shadows.
 
-2) GTA-HDR includes HDR images
+b) GTA-HDR includes HDR images
 with sufficient resolution (i.e., 512 × 512 and 1024 × 1024).
 
-3) GTA-HDR includes HDR images capturing a diverse
+c) GTA-HDR includes HDR images capturing a diverse
 set of scenes including, different locations (e.g., indoor, urban,
 rural, in-the-wild), different lighting conditions (e.g., morning,
 midday, evening, night), and different weather and season
