@@ -1,12 +1,8 @@
 # GTA-HDR: High Dynamic Range Content Creation and Qualtiy Assessment using Deep Learning   
 
 
-<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-    <img src="assets/game.gif" alt="Alt Text">
-</div>
-
 <p align="center">
-    <img width="200" src="assets/game.gif" alt="Material Bread logo">
+    <img width="400" src="assets/game.gif" alt="Material Bread logo">
 </p>
 
 ![My Image](assets/GTA-HDR-Teaser.png)
