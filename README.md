@@ -4,7 +4,7 @@
 <p align="center">
     <img width="400" src="assets/game.gif" alt="Material Bread logo">
     <br>
-    <em>**Graphics retrieved from Google Search**</em>
+    <em>**This Graphics is retrieved from Google Search**</em>
 </p>
 <p align="center">
     <img width="50" src="assets/arrow.png" alt="Material Bread logo">
