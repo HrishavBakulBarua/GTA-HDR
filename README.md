@@ -5,7 +5,7 @@
     <img width="400" src="assets/game.gif" alt="Material Bread logo">
 </p>
 <p align="center">
-    <img width="400" src="assets/arrow.png" alt="Material Bread logo">
+    <img width="100" src="assets/arrow.png" alt="Material Bread logo">
 </p>
 
 ![My Image](assets/GTA-HDR-Teaser.png)
