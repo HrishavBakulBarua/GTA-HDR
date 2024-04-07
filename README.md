@@ -117,7 +117,7 @@ dataset amounts to a total of 40K × 25 = 1M LDR, 40K HDR, and 40K distorted HDR
 
 ## Our work utilizes the following:
 
-### <ins>State-of-the-art learning models</ins>
+### <ins>State-of-the-art learning models for HDR reconstruction</ins>
 
 
 `ACM TOG 2017` | `HDRCNN` - HDR image reconstruction from a single exposure using deep CNNs | [Code](https://github.com/gabrieleilertsen/hdrcnn)
