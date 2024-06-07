@@ -134,7 +134,7 @@ dataset amounts to a total of 40K × 25 = 1M LDR, 40K HDR, and 40K distorted HDR
 
 `APSIPA 2023` | `ArtHDR-Net` - Perceptually Realistic and Accurate HDR Content Creation | [Code](https://arxiv.org/abs/2309.03827#:~:text=ArtHDR%2DNet%3A%20Perceptually%20Realistic%20and%20Accurate%20HDR%20Content%20Creation,-Hrishav%20Bakul%20Barua&text=High%20Dynamic%20Range%20(HDR)%20content,and%20Augmented%2FVirtual%20Reality%20industries.)
 
- `HistoHDR-Net` - HistoHDR-Net: Histogram Equalization for Single LDR to HDR Image
+ `ICIP 2024` - HistoHDR-Net: Histogram Equalization for Single LDR to HDR Image
 Translation| [Code](https://arxiv.org/pdf/2402.06692.pdf)
 
 
