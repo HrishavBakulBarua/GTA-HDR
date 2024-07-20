@@ -232,7 +232,25 @@ If you find our work (i.e. the code, the theory/concept, or the dataset) useful 
   year={2024}
 }
 ~~~
-
+Related works: 
+~~~
+@inproceedings{barua2023arthdr,
+  title={ArtHDR-Net: Perceptually Realistic and Accurate HDR Content Creation},
+  author={Barua, Hrishav Bakul and Krishnasamy, Ganesh and Wong, KokSheik and Stefanov, Kalin and Dhall, Abhinav},
+  booktitle={2023 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)},
+  pages={806--812},
+  year={2023},
+  organization={IEEE}
+}
+~~~
+~~~
+@article{barua2024histohdr,
+  title={HistoHDR-Net: Histogram Equalization for Single LDR to HDR Image Translation},
+  author={Barua, Hrishav Bakul and Krishnasamy, Ganesh and Wong, KokSheik and Dhall, Abhinav and Stefanov, Kalin},
+  journal={arXiv preprint arXiv:2402.06692},
+  year={2024}
+}
+~~~
 
 ## License and Copyright
 
