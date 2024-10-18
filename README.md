@@ -18,7 +18,7 @@ The official repository of the paper with supplementary: [GTA-HDR](https://arxiv
 
 ## About the project
 
-This project is a collaboration between [Monash University, Malaysia campus](https://www.monash.edu.my/) and [Monash University, Melbourne, Australia](https://www.monash.edu/).
+This project is a collaboration between [Monash University, Malaysia campus](https://www.monash.edu.my/) and [Human-Centered AI Lab](https://www.monash.edu/it/hcc/human-centred-ai-lab) in the [Faculty of Information Technology](https://www.monash.edu/it), [Monash University, Melbourne (Clayton), Australia](https://www.monash.edu/).
 
 Project Members - 
 
