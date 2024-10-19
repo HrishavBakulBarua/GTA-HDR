@@ -140,29 +140,29 @@ Translation| [Code](https://arxiv.org/pdf/2402.06692.pdf)
 
 ### <ins>LDR-HDR datasets</ins>
 
-`VPQM 2015` | `HDR-Eye` - Visual attention in LDR and HDR images | [Link](https://www.epfl.ch/labs/mmspg/downloads/hdr-eye/)
+`VPQM 2015` | `HDR-Eye` - Visual attention in LDR and HDR images | [Dataset](https://www.epfl.ch/labs/mmspg/downloads/hdr-eye/)
 
-`ICCV 2017` | `City Scene`, site1 - Learning high dynamic range from outdoor panoramas | [Link](https://github.com/jacenfox/ldr2hdr-public) 
+`ICCV 2017` | `City Scene`, site1 - Learning high dynamic range from outdoor panoramas | [Dataset](https://github.com/jacenfox/ldr2hdr-public) 
            
-`City Scene`, site2- The Laval HDR sky database | [Link](http://hdrdb.com/)
+`City Scene`, site2- The Laval HDR sky database | [Dataset](http://hdrdb.com/)
 
-`ACM TOG 2017` | `Kalantari` *et al.* - Deep high dynamic range imaging of dynamic scenes | [Link](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/)
+`ACM TOG 2017` | `Kalantari` *et al.* - Deep high dynamic range imaging of dynamic scenes | [Dataset](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/)
 
-`ACM TOG 2017` | `Endo` *et al.* - Deep reverse tone mapping | [Link](https://www.npal.cs.tsukuba.ac.jp/~endo/projects/DrTMO/)
+`ACM TOG 2017` | `Endo` *et al.* - Deep reverse tone mapping | [Dataset](https://www.npal.cs.tsukuba.ac.jp/~endo/projects/DrTMO/)
 
-`ACM TOG 2017` | `Eilertsen` *et al.* - HDR image reconstruction from a single exposure using deep CNNs | [Link](https://computergraphics.on.liu.se/hdrcnn/)
+`ACM TOG 2017` | `Eilertsen` *et al.* - HDR image reconstruction from a single exposure using deep CNNs | [Dataset](https://computergraphics.on.liu.se/hdrcnn/)
 
-`IEEE Access 2018` | `Lee` *et al.* - Deep chain hdri: Reconstructing a high dynamic range image from a single low dynamic range image | [Link](https://siyeong-lee.github.io/hdr_vds_dataset/)
+`IEEE Access 2018` | `Lee` *et al.* - Deep chain hdri: Reconstructing a high dynamic range image from a single low dynamic range image | [Dataset](https://siyeong-lee.github.io/hdr_vds_dataset/)
 
-`IEEE TIP 2018` | `Cai` *et al.* - Learning a deep single image contrast enhancer from multi-exposure images | [Link](https://github.com/csjcai/SICE)
+`IEEE TIP 2018` | `Cai` *et al.* - Learning a deep single image contrast enhancer from multi-exposure images | [Dataset](https://github.com/csjcai/SICE)
 
-`IEEE ICCP 2019` | `Prabhakar` *et al.* - A fast, scalable, and reliable deghosting method for extreme exposure fusion | [Link](https://github.com/rajat95/Deep-Deghosting-HDR)
+`IEEE ICCP 2019` | `Prabhakar` *et al.* - A fast, scalable, and reliable deghosting method for extreme exposure fusion | [Dataset](https://github.com/rajat95/Deep-Deghosting-HDR)
 
-`IEEE Access 2020` | `LDR-HDR Pair` - Dynamic range expansion using cumulative histogram learning for high dynamic range image generation | [Link](https://github.com/HanbyolJang/LDR-HDR-pair_Dataset/tree/master)
+`IEEE Access 2020` | `LDR-HDR Pair` - Dynamic range expansion using cumulative histogram learning for high dynamic range image generation | [Dataset](https://github.com/HanbyolJang/LDR-HDR-pair_Dataset/tree/master)
 
-`CVPR 2020` | `HDR-Synth & HDR-Real` - Single-image HDR reconstruction by learning to reverse the camera pipeline | [Link](https://github.com/alex04072000/SingleHDR)
+`CVPR 2020` | `HDR-Synth & HDR-Real` - Single-image HDR reconstruction by learning to reverse the camera pipeline | [Dataset](https://github.com/alex04072000/SingleHDR)
 
-`SIGGRAPH 2022` | `SI-HDR` - Comparison of single image hdr reconstruction methods — the caveats of quality assessment | [Link](https://www.cl.cam.ac.uk/research/rainbow/projects/sihdr_benchmark/)
+`SIGGRAPH 2022` | `SI-HDR` - Comparison of single image hdr reconstruction methods — the caveats of quality assessment | [Dataset](https://www.cl.cam.ac.uk/research/rainbow/projects/sihdr_benchmark/)
 
 Common link to some commonly used datasets - [RAISE (ACM MMSys'15)](https://qualinet.github.io/databases/image/raise___a_raw_images_dataset_for_digital_image_forensics/), [HDR-Synth, HDR-Real, and HDR-Eye](https://github.com/alex04072000/SingleHDR)  
 
