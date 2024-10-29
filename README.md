@@ -1,4 +1,4 @@
-# GTA-HDR: High Dynamic Range Content Creation and Qualtiy Assessment using Deep Learning   
+# GTA-HDR: High Dynamic Range Content Creation and Qualtiy Assessment using Deep Learning [WACV 2025]   
 
 
 <p align="center">
