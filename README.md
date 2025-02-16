@@ -221,6 +221,8 @@ For more details and experimental results please check out the paper!!
 
 Impact of GTA-HDR on the performance of the state-of-the-art in 3D human pose and shape estimation, 2D human body part segmentation, and semantic segmentation. We used [ArtHDR-Net](https://arxiv.org/abs/2309.03827#:~:text=ArtHDR%2DNet%3A%20Perceptually%20Realistic%20and%20Accurate%20HDR%20Content%20Creation,-Hrishav%20Bakul%20Barua&text=High%20Dynamic%20Range%20(HDR)%20content,and%20Augmented%2FVirtual%20Reality%20industries.) trained with the GTA-HDR dataset for HDR image reconstruction. The resulting HDR images were used by [BEV](https://github.com/Arthur151/ROMP) (3D human pose and shape estimation), [CDCL](https://github.com/kevinlin311tw/CDCL-human-part-segmentation) (2D human body part segmentation), and [SAM](https://github.com/facebookresearch/segment-anything) (semantic segmentation). Ours: HDR images reconstructed with ArtHDR-Net trained with GTA-HDR.
 
+![My Image](assets/applications.png)
+
 
 A page for awsome Deep Learning based HDR Reconstruction models: [Link1](https://github.com/vinthony/awesome-deep-hdr), [Link2](https://github.com/rebeccaeexu/Awesome-High-Dynamic-Range-Imaging?tab=readme-ov-file) 
 
