@@ -252,11 +252,13 @@ Related works:
 }
 ~~~
 ~~~
-@article{barua2024histohdr,
-  title={HistoHDR-Net: Histogram Equalization for Single LDR to HDR Image Translation},
+@inproceedings{barua2024histohdr,
+  title={HistoHDR-Net: Histogram equalization for single LDR to HDR image translation},
   author={Barua, Hrishav Bakul and Krishnasamy, Ganesh and Wong, KokSheik and Dhall, Abhinav and Stefanov, Kalin},
-  journal={arXiv preprint arXiv:2402.06692},
-  year={2024}
+  booktitle={2024 IEEE International Conference on Image Processing (ICIP)},
+  pages={2730--2736},
+  year={2024},
+  organization={IEEE}
 }
 ~~~
 
