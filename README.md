@@ -16,9 +16,7 @@ This page contains all the Datasets and Code bases (experiments and evaluations)
 
 
 
-The official repository of the paper with supplementary: [GTA-HDR](https://openaccess.thecvf.com/content/WACV2025/html/Barua_GTA-HDR_A_Large-Scale_Synthetic_Dataset_for_HDR_Image_Reconstruction_WACV_2025_paper.html)!!
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo)
+The official repository of the paper with supplementary: [![GTA-HDR](https://img.shields.io/badge/GTA-HDR-b31b1b.svg)](https://openaccess.thecvf.com/content/WACV2025/html/Barua_GTA-HDR_A_Large-Scale_Synthetic_Dataset_for_HDR_Image_Reconstruction_WACV_2025_paper.html) | ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo)
 
 
 ## About the project
