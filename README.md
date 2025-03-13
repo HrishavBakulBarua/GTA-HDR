@@ -18,6 +18,9 @@ This page contains all the Datasets and Code bases (experiments and evaluations)
 
 The official repository of the paper with supplementary: [GTA-HDR](https://openaccess.thecvf.com/content/WACV2025/html/Barua_GTA-HDR_A_Large-Scale_Synthetic_Dataset_for_HDR_Image_Reconstruction_WACV_2025_paper.html)!!
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo)
+
+
 ## About the project
 
 This project is a collaboration between [Monash University, Malaysia campus](https://www.monash.edu.my/) and [Human-Centered AI Lab](https://www.monash.edu/it/hcc/human-centred-ai-lab) in the [Faculty of Information Technology](https://www.monash.edu/it), [Monash University, Melbourne (Clayton), Australia](https://www.monash.edu/).
