@@ -33,7 +33,7 @@ Thw work is accepted in [IEEE/CVF WACV 2025](https://wacv2025.thecvf.com/) !!
 
 ### <ins>Funding details<ins>
 
-This work is supported by the prestigious [`Global Excellence and Mobility Scholarship (GEMS)`](https://www.monash.edu.my/research/support-and-scholarships/gems-scholarship), Monash University. This research is also supported, in part, by the E-Science fund under the project: *Innovative High Dynamic Range Imaging - From Information Hiding to Its Applications* `(Grant No. 01-02-10-SF0327)`.
+This work is supported by the prestigious [`Global Excellence and Mobility Scholarship (GEMS)`](https://www.monash.edu.my/research/support-and-scholarships/gems-scholarship), Monash University. This research is also supported, in part, by the E-Science fund under the project: *Innovative High Dynamic Range Imaging - From Information Hiding to Its Applications* `(Grant No. 01-02-10-SF0327)`. This research received a GRS Conference Travel Grant Award [`RMO/L-GRS(TS)/2024-040`] to attend IEEE/CVF WACV 2025 in Arizona, USA.
 
 ## Overview
 Given that the performance of any data-driven learning-
