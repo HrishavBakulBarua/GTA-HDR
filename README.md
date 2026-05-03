@@ -264,11 +264,13 @@ Related works:
 ~~~
 
 ~~~
-@article{barua2025physhdr,
+@inproceedings{barua2026physhdr,
   title={PhysHDR: When Lighting Meets Materials and Scene Geometry in HDR Reconstruction},
   author={Barua, Hrishav Bakul and Stefanov, Kalin and Krishnasamy, Ganesh and Wong, KokSheik and Dhall, Abhinav},
-  journal={arXiv preprint arXiv:2509.16869},
-  year={2025}
+  booktitle={ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={10997--11001},
+  year={2026},
+  organization={IEEE}
 }
 ~~~
 
